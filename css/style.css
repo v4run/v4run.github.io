@@ -1,0 +1,12 @@
+body {
+        font-family: 'Josefin Slab', serif;
+        color: rgba(0,0,0,0.87);
+        background: #f4f7f6;
+	text-align: center;
+}
+h1 {
+	font-weight: bold;
+}
+section {
+	margin-top: 250px;
+}
